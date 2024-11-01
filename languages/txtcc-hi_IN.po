@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2023-11-07 11:15+0530\n"
+"PO-Revision-Date: 2023-11-07 11:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/functions.php:6
+msgid " Settings Text case converter"
+msgstr "सेटिंग टेक्स्ट केस कनवर्टर"
+
+#: include/functions.php:6
+msgid "Text Case Converter"
+msgstr "टेक्स्ट केस कन्वर्टर"
+
+#: include/txtcc_inscript.php:44
+msgid "There are no exporting data in your selection fields"
+msgstr "आपके चयन फ़ील्ड में कोई निर्यात डेटा नहीं है"
+
+#: include/txtcc_inscript.php:47
+msgid "Uppercase"
+msgstr "अपरकेस"
+
+#: include/txtcc_inscript.php:48
+msgid "Lowercase"
+msgstr "छोटे"
+
+#: include/txtcc_inscript.php:49 include/txtccsetting.php:29
+msgid "Capitalize"
+msgstr "कैपिटल"
+
+#: include/txtcc_inscript.php:50 include/txtccsetting.php:30
+msgid "Sentence"
+msgstr "वाक्य"
+
+#: include/txtcc_inscript.php:51
+msgid "Invert Case"
+msgstr "उलटा मामला"
+
+#: include/txtcc_inscript.php:52 include/txtccsetting.php:43
+msgid "Alternate Case"
+msgstr "वैकल्पिक मामला"
+
+#: include/txtcc_inscript.php:53
+msgid "Insert dummy text"
+msgstr "डमी टेक्स्ट डालें"
+
+#: include/txtcc_inscript.php:54 include/txtccsetting.php:32
+msgid "Subscript"
+msgstr "सबस्क्रिप्ट"
+
+#: include/txtcc_inscript.php:55 include/txtccsetting.php:39
+msgid "Superscript"
+msgstr "सुपरस्क्रिप्ट"
+
+#: include/txtcc_inscript.php:56 include/txtccsetting.php:44
+msgid "Download Text"
+msgstr "पाठ डाउनलोड करें"
+
+#: include/txtcc_inscript.php:57 include/txtccsetting.php:38
+msgid "Clean"
+msgstr "स्वच्छ"
+
+#: include/txtcc_inscript.php:58
+msgid "Copy to Clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+#: include/txtcc_inscript.php:59 include/txtccsetting.php:46
+msgid "Add break in content"
+msgstr "सामग्री में ब्रेक जोड़ें"
+
+#: include/txtcc_inscript.php:60 include/txtccsetting.php:40
+msgid "Calculator"
+msgstr "कैलकुलेटर"
+
+#: include/txtcc_inscript.php:61 include/txtccsetting.php:31
+msgid "Address"
+msgstr "पता"
+
+#: include/txtcc_inscript.php:62 include/txtccsetting.php:45
+msgid "Short Quotation"
+msgstr "लघु उद्धरण"
+
+#: include/txtcc_inscript.php:63 include/txtccsetting.php:33
+msgid "Abbreviation"
+msgstr "संक्षिप्त"
+
+#: include/txtcc_inscript.php:64
+msgid "Highlight text"
+msgstr "टेक्स्ट हाइलाइट करें"
+
+#: include/txtcc_inscript.php:65
+msgid "Enter the title attribute"
+msgstr "शीर्षक विशेषता दर्ज करें"
+
+#: include/txtcc_inscript.php:66
+msgid "Title"
+msgstr "शीर्षक"
+
+#: include/txtcc_inscript.php:67 include/txtccsetting.php:34
+msgid "Synonyms"
+msgstr "समानार्थक शब्द"
+
+#: include/txtcc_inscript.php:68
+msgid "Add synonyms"
+msgstr "समानार्थी शब्द जोड़ें"
+
+#: include/txtcc_inscript.php:69 include/txtccsetting.php:35
+msgid "Audio"
+msgstr "ऑडियो"
+
+#: include/txtcc_inscript.php:70
+msgid "Add audio"
+msgstr "ऑडियो जोड़ें"
+
+#: include/txtcc_inscript.php:71
+msgid "Audio src"
+msgstr "ऑडियो src"
+
+#: include/txtcc_inscript.php:72
+msgid "Tool Tip"
+msgstr "टूल टिप"
+
+#: include/txtcc_inscript.php:73
+msgid "Tool Tip Text"
+msgstr "टूल टिप टेक्स्ट"
+
+#: include/txtcc_inscript.php:74 include/txtccsetting.php:36
+msgid "Video"
+msgstr "वीडियो"
+
+#: include/txtcc_inscript.php:75
+msgid "Add video"
+msgstr "वीडियो जोड़ें"
+
+#: include/txtcc_inscript.php:76
+msgid "Video src"
+msgstr "वीडियो स्रोत"
+
+#: include/txtcc_inscript.php:77 include/txtccsetting.php:51
+msgid "Code"
+msgstr "कोड"
+
+#: include/txtcc_inscript.php:78 include/txtccsetting.php:24
+msgid "All"
+msgstr "सब"
+
+#: include/txtcc_inscript.php:79 include/txtccsetting.php:47
+msgid "Underline"
+msgstr "रेखांकन"
+
+#: include/txtcc_inscript.php:80 include/txtccsetting.php:48
+msgid "Telephone"
+msgstr "टेलीफोन"
+
+#: include/txtcc_inscript.php:81 include/txtccsetting.php:49
+msgid "Email"
+msgstr "ईमेल"
+
+#: include/txtcc_inscript.php:90
+msgid "Clear"
+msgstr "स्पष्ट"
+
+#: include/txtcc_inscript.php:90
+msgid "Default"
+msgstr "चूक"
+
+#: include/txtcc_inscript.php:90
+msgid "Select Color"
+msgstr "रंग चुनो"
+
+#: include/txtccsetting.php:14 txtcc.php:55
+msgid "Settings"
+msgstr "समायोजन"
+
+#: include/txtccsetting.php:24
+msgid "To show all tools"
+msgstr "सभी उपकरण दिखाने के लिए"
+
+#: include/txtccsetting.php:27
+msgid "Lower Case"
+msgstr "लोअर केस"
+
+#: include/txtccsetting.php:27
+msgid "To show Lower Case"
+msgstr "लोअर केस दिखाने के लिए"
+
+#: include/txtccsetting.php:28
+msgid "Upper Case"
+msgstr "अपरकेस"
+
+#: include/txtccsetting.php:28
+msgid "To show Upper Case"
+msgstr "ऊपरी मामला दिखाने के लिए"
+
+#: include/txtccsetting.php:29
+msgid "To Show Capitalize"
+msgstr "पूंजी दिखाने के लिए"
+
+#: include/txtccsetting.php:30
+msgid "To Show Sentence"
+msgstr "वाक्य दिखाने के लिए"
+
+#: include/txtccsetting.php:31
+msgid "To Show Address"
+msgstr "पता दिखाने के लिए"
+
+#: include/txtccsetting.php:32
+msgid "To Show Selected text in Subscript"
+msgstr "सब्स्क्रिप्ट में चयनित पाठ दिखाने के लिए"
+
+#: include/txtccsetting.php:33
+msgid "To Show Selected text in Abbreviation"
+msgstr "संक्षिप्त में चयनित पाठ दिखाने के लिए"
+
+#: include/txtccsetting.php:34
+msgid "To Show Same meaning of the word"
+msgstr "शब्द के समान अर्थ दिखाने के लिए"
+
+#: include/txtccsetting.php:35
+msgid "To Show Audio tag"
+msgstr "ऑडियो टैग दिखाने के लिए"
+
+#: include/txtccsetting.php:36
+msgid "To Show Video tag"
+msgstr "वीडियो टैग दिखाने के लिए"
+
+#: include/txtccsetting.php:37
+msgid "Tooltip"
+msgstr "टूलटिप"
+
+#: include/txtccsetting.php:37
+msgid "To make Tooltip in selected text"
+msgstr "चयनित पाठ में टूलटिप बनाने के लिए"
+
+#: include/txtccsetting.php:38
+msgid "To Clean your editor"
+msgstr "अपने संपादक को साफ करने के लिए"
+
+#: include/txtccsetting.php:39
+msgid "To Show Selected text in Superscript"
+msgstr "सुपरस्क्रिप्ट में चयनित पाठ दिखाने के लिए"
+
+#: include/txtccsetting.php:40
+msgid "To count the char,word and line on your editor"
+msgstr "अपने संपादक पर वर्ण, शब्द और पंक्ति को गिनने के लिए"
+
+#: include/txtccsetting.php:41
+msgid "Highlight Text"
+msgstr "टेक्स्ट हाइलाइट करें"
+
+#: include/txtccsetting.php:41
+msgid "To use highlight text on your selected content"
+msgstr "अपनी चयनित सामग्री पर हाइलाइट टेक्स्ट का उपयोग करने के लिए"
+
+#: include/txtccsetting.php:42
+msgid "Dummy Text"
+msgstr "अभ्यास पाठ"
+
+#: include/txtccsetting.php:42
+msgid "To Show Dummy text"
+msgstr "डमी पाठ दिखाने के लिए"
+
+#: include/txtccsetting.php:43
+msgid "To Show Alternate case"
+msgstr "वैकल्पिक मामले को दिखाने के लिए"
+
+#: include/txtccsetting.php:44
+msgid "Download your text on your editor"
+msgstr "अपने संपादक पर अपना पाठ डाउनलोड करें"
+
+#: include/txtccsetting.php:45
+msgid "To Show selected text in Short Quotation"
+msgstr "लघु उद्धरण में चयनित पाठ दिखाने के लिए"
+
+#: include/txtccsetting.php:46
+msgid "To show Add break in content"
+msgstr "सामग्री में ऐड ब्रेक दिखाने के लिए"
+
+#: include/txtccsetting.php:47
+msgid "To Use Underline in the selected word or line"
+msgstr "चयनित शब्द या पंक्ति में अंडरलाइन का उपयोग करना"
+
+#: include/txtccsetting.php:48
+msgid "To Use Tel tag in the selected word"
+msgstr "चयनित शब्द या पंक्ति में अंडरलाइन का उपयोग करना"
+
+#: include/txtccsetting.php:49
+msgid "To Use Email tag in the selected word"
+msgstr "चयनित शब्द में ईमेल टैग का उपयोग करने के लिए"
+
+#: include/txtccsetting.php:50
+msgid "Copy To Clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+#: include/txtccsetting.php:50
+msgid "To Copy the selected content on your editor"
+msgstr "अपने संपादक पर चयनित सामग्री की प्रतिलिपि बनाने के लिए"
+
+#: include/txtccsetting.php:51
+msgid "To show the selected text"
+msgstr "कोड टैग दिखाने के लिए"
+
+#: include/txtccsetting.php:52
+msgid "Headings"
+msgstr "शीर्षकों"
+
+#: include/txtccsetting.php:52
+msgid "To Use for headings"
+msgstr "शीर्षकों के लिए उपयोग करने के लिए"
+
+#: include/txtccsetting.php:53
+msgid "Confirmation Check"
+msgstr "पुष्टिकरण जाँच"
+
+#: include/txtccsetting.php:53
+msgid ""
+"Use this feature to add a confirmation popup while using Uppercase, LowerCase, "
+"AlternateCase etc."
+msgstr ""
+"अपरकेस, लोअरकेस, अल्टरनेटकेस आदि का उपयोग करते समय पुष्टिकरण पॉपअप जोड़ने के लिए इस सुविधा का उपयोग करें।"
+
+#: include/txtccsetting.php:79
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: include/txtccsetting.php:89
+msgid "How to use Text Case Converter?"
+msgstr "टेक्स्ट केस कन्वर्टर का उपयोग कैसे करें?"
+
+#: include/txtccsetting.php:94
+msgid "Please Review"
+msgstr "समीक्षा करें"
+
+#: include/txtccsetting.php:95
+msgid "SUBSCRIBE"
+msgstr "सदस्यता लें"
+
+#: include/txtccsetting.php:102
+msgid "Explore Our Services"
+msgstr "हमारी सेवाओं का अन्वेषण करें"
+
+#: include/txtccsetting.php:106
+msgid "For WordPress Design & Development | Custom Plugin Services"
+msgstr "वर्डप्रेस डिज़ाइन एवं विकास के लिए | कस्टम प्लगइन सेवाएँ"
+
+#: include/txtccsetting.php:114
+msgid "Try Our Other WordPress Plugins"
+msgstr "हमारे अन्य प्लगइन्स का प्रयास करें "
+
+#: include/txtccsetting.php:120
+msgid "Custom Add to Cart Button"
+msgstr "कस्टम ADD TO CART बटन"
+
+#: include/txtccsetting.php:122
+msgid "Get Pro"
+msgstr "समर्थक बनो"
+
+#: include/txtccsetting.php:129
+msgid "Awesome Checkout Templates"
+msgstr "बहुत बढ़िया चेकआउट टेम्पलेट"
+
+#: include/txtccsetting.php:136
+msgid "Passwords Manager"
+msgstr "पासवर्ड प्रबंधक"
+
+#: include/txtccsetting.php:142
+msgid "Country and State Selection Addon for Gravity Forms"
+msgstr "ग्रेविटी फॉर्म के लिए देश और राज्य चयन ऐडऑन"
+
+#: include/txtccsetting.php:149
+msgid "Digital Warranty Card Generator"
+msgstr "डिजिटल वारंटी कार्ड जेनरेटर"
+
+#: include/txtccsetting.php:156
+msgid "Horizontal Slider with Scroll"
+msgstr "स्क्रॉल के साथ क्षैतिज स्लाइडर"
+
+#: include/txtccsetting.php:163
+msgid "Show State Field for WooCommerce"
+msgstr "WooCommerce के लिए राज्य फ़ील्ड दिखाएँ"
+
+#: include/txtccsetting.php:173
+msgid "Try World Class Hosting Services"
+msgstr "विश्व स्तरीय होस्टिंग सेवाएँ आज़माएँ"
+
+#~ msgid "Invalid type of customClass."
+#~ msgstr "कस्टम क्लास का अमान्य प्रकार।"
+
+#~ msgid "\"allowOutsideClick\" parameter requires `backdrop` parameter to be set to `true`"
+#~ msgstr "\"allowOutsideClick\" पैरामीटर को `बैकड्रॉप` पैरामीटर को `true` पर सेट करने की आवश्यकता है"
+
+#~ msgid "The \"position\" parameter is not valid, defaulting to \"center\""
+#~ msgstr "\"स्थिति\" पैरामीटर मान्य नहीं है, डिफ़ॉल्ट रूप से \"केंद्र\""
+
+#~ msgid ""
+#~ "Unexpected type of inputValue! Expected \"string\", \"number\" or \"Promise\", got \""
+#~ msgstr "अनपेक्षित प्रकार का इनपुटवैल्यू! अपेक्षित \"स्ट्रिंग\", \"नंबर\" या \"वादा\", मिला \""
+
+#~ msgid ""
+#~ "Invalid currentProgressStep parameter, it should be less than progressSteps.length "
+#~ "(currentProgressStep like JS arrays starts from 0)"
+#~ msgstr ""
+#~ "अमान्य करंटप्रोग्रेसस्टेप पैरामीटर, यह प्रोग्रेसस्टेप्स से कम होना चाहिए। लंबाई (वर्तमान प्रोग्रेसस्टेप जैसे जेएस "
+#~ "सरणियाँ 0 से शुरू होती हैं)"
+
+#~ msgid "Unknown parameter \""
+#~ msgstr "अज्ञात पैरामीटर \""
+
+#~ msgid "The parameter \""
+#~ msgstr "पैरामीटर \""
+
+#~ msgid "Copy To clipboard"
+#~ msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+#~ msgid "video"
+#~ msgstr "वीडियो"
+
+#~ msgid "underline"
+#~ msgstr "रेखांकन"
+
+#~ msgid "Watch Plugin Video"
+#~ msgstr "देखिये प्लगिन वीडियो"
+
+#~ msgid "Contact Us for Better Google PageSpeed Optimization Results!"
+#~ msgstr "बेहतर गूगल पेजस्पीड ऑप्टिमाइज़ेशन परिणामों के लिए हमसे संपर्क करें!"
+
+#~ msgid "To show the selected text make different in the whole paragraph"
+#~ msgstr "चयनित पाठ को दिखाने के लिए पूरे पैराग्राफ में अलग-अलग बनाएं"

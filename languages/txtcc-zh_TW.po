@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2023-11-07 11:09+0530\n"
+"PO-Revision-Date: 2023-11-07 11:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/functions.php:6
+msgid " Settings Text case converter"
+msgstr "設置文本大小寫轉換器"
+
+#: include/functions.php:6
+msgid "Text Case Converter"
+msgstr "文本大小寫轉換器"
+
+#: include/txtcc_inscript.php:44
+msgid "There are no exporting data in your selection fields"
+msgstr "您的選擇字段中沒有導出數據"
+
+#: include/txtcc_inscript.php:47
+msgid "Uppercase"
+msgstr "大寫"
+
+#: include/txtcc_inscript.php:48
+msgid "Lowercase"
+msgstr "小寫"
+
+#: include/txtcc_inscript.php:49 include/txtccsetting.php:29
+msgid "Capitalize"
+msgstr "大寫"
+
+#: include/txtcc_inscript.php:50 include/txtccsetting.php:30
+msgid "Sentence"
+msgstr "句子"
+
+#: include/txtcc_inscript.php:51
+msgid "Invert Case"
+msgstr "反轉案例"
+
+#: include/txtcc_inscript.php:52 include/txtccsetting.php:43
+msgid "Alternate Case"
+msgstr "替代案例"
+
+#: include/txtcc_inscript.php:53
+msgid "Insert dummy text"
+msgstr "插入虛擬文本"
+
+#: include/txtcc_inscript.php:54 include/txtccsetting.php:32
+msgid "Subscript"
+msgstr "下標"
+
+#: include/txtcc_inscript.php:55 include/txtccsetting.php:39
+msgid "Superscript"
+msgstr "上標"
+
+#: include/txtcc_inscript.php:56 include/txtccsetting.php:44
+msgid "Download Text"
+msgstr "下載文本"
+
+#: include/txtcc_inscript.php:57 include/txtccsetting.php:38
+msgid "Clean"
+msgstr "乾淨的"
+
+#: include/txtcc_inscript.php:58
+msgid "Copy to Clipboard"
+msgstr "複製到剪貼板"
+
+#: include/txtcc_inscript.php:59 include/txtccsetting.php:46
+msgid "Add break in content"
+msgstr "添加中斷內容"
+
+#: include/txtcc_inscript.php:60 include/txtccsetting.php:40
+msgid "Calculator"
+msgstr "計算器"
+
+#: include/txtcc_inscript.php:61 include/txtccsetting.php:31
+msgid "Address"
+msgstr "地址"
+
+#: include/txtcc_inscript.php:62 include/txtccsetting.php:45
+msgid "Short Quotation"
+msgstr "簡短報價"
+
+#: include/txtcc_inscript.php:63 include/txtccsetting.php:33
+msgid "Abbreviation"
+msgstr "縮寫"
+
+#: include/txtcc_inscript.php:64
+msgid "Highlight text"
+msgstr "突出顯示文本"
+
+#: include/txtcc_inscript.php:65
+msgid "Enter the title attribute"
+msgstr "輸入標題屬性"
+
+#: include/txtcc_inscript.php:66
+msgid "Title"
+msgstr "標題"
+
+#: include/txtcc_inscript.php:67 include/txtccsetting.php:34
+msgid "Synonyms"
+msgstr "同義詞"
+
+#: include/txtcc_inscript.php:68
+msgid "Add synonyms"
+msgstr "添加同義詞"
+
+#: include/txtcc_inscript.php:69 include/txtccsetting.php:35
+msgid "Audio"
+msgstr "聲音的"
+
+#: include/txtcc_inscript.php:70
+msgid "Add audio"
+msgstr "添加音頻"
+
+#: include/txtcc_inscript.php:71
+msgid "Audio src"
+msgstr "音頻源"
+
+#: include/txtcc_inscript.php:72
+msgid "Tool Tip"
+msgstr "工具提示"
+
+#: include/txtcc_inscript.php:73
+msgid "Tool Tip Text"
+msgstr "工具提示文本"
+
+#: include/txtcc_inscript.php:74 include/txtccsetting.php:36
+msgid "Video"
+msgstr "視頻"
+
+#: include/txtcc_inscript.php:75
+msgid "Add video"
+msgstr "添加視頻"
+
+#: include/txtcc_inscript.php:76
+msgid "Video src"
+msgstr "視頻源"
+
+#: include/txtcc_inscript.php:77 include/txtccsetting.php:51
+msgid "Code"
+msgstr "代碼"
+
+#: include/txtcc_inscript.php:78 include/txtccsetting.php:24
+msgid "All"
+msgstr "全部"
+
+#: include/txtcc_inscript.php:79 include/txtccsetting.php:47
+msgid "Underline"
+msgstr "強調"
+
+#: include/txtcc_inscript.php:80 include/txtccsetting.php:48
+msgid "Telephone"
+msgstr "電話"
+
+#: include/txtcc_inscript.php:81 include/txtccsetting.php:49
+msgid "Email"
+msgstr "電子郵件"
+
+#: include/txtcc_inscript.php:90
+msgid "Clear"
+msgstr "清除"
+
+#: include/txtcc_inscript.php:90
+msgid "Default"
+msgstr "默認"
+
+#: include/txtcc_inscript.php:90
+msgid "Select Color"
+msgstr "選擇顏色"
+
+#: include/txtccsetting.php:14 txtcc.php:55
+msgid "Settings"
+msgstr "設置"
+
+#: include/txtccsetting.php:24
+msgid "To show all tools"
+msgstr "顯示所有工具"
+
+#: include/txtccsetting.php:27
+msgid "Lower Case"
+msgstr "小寫"
+
+#: include/txtccsetting.php:27
+msgid "To show Lower Case"
+msgstr "顯示小寫"
+
+#: include/txtccsetting.php:28
+msgid "Upper Case"
+msgstr "大寫"
+
+#: include/txtccsetting.php:28
+msgid "To show Upper Case"
+msgstr "顯示大寫"
+
+#: include/txtccsetting.php:29
+msgid "To Show Capitalize"
+msgstr "顯示大寫"
+
+#: include/txtccsetting.php:30
+msgid "To Show Sentence"
+msgstr "顯示句子"
+
+#: include/txtccsetting.php:31
+msgid "To Show Address"
+msgstr "顯示地址"
+
+#: include/txtccsetting.php:32
+msgid "To Show Selected text in Subscript"
+msgstr "在下標中顯示選定的文本"
+
+#: include/txtccsetting.php:33
+msgid "To Show Selected text in Abbreviation"
+msgstr "以縮寫形式顯示選定的文本"
+
+#: include/txtccsetting.php:34
+msgid "To Show Same meaning of the word"
+msgstr "顯示單詞的相同含義"
+
+#: include/txtccsetting.php:35
+msgid "To Show Audio tag"
+msgstr "顯示音頻標籤"
+
+#: include/txtccsetting.php:36
+msgid "To Show Video tag"
+msgstr "顯示視頻標籤"
+
+#: include/txtccsetting.php:37
+msgid "Tooltip"
+msgstr "工具提示"
+
+#: include/txtccsetting.php:37
+msgid "To make Tooltip in selected text"
+msgstr "在選定文本中製作工具提示"
+
+#: include/txtccsetting.php:38
+msgid "To Clean your editor"
+msgstr "清理你的編輯器"
+
+#: include/txtccsetting.php:39
+msgid "To Show Selected text in Superscript"
+msgstr "以上標顯示選定文本"
+
+#: include/txtccsetting.php:40
+msgid "To count the char,word and line on your editor"
+msgstr "計算編輯器上的字符、單詞和行"
+
+#: include/txtccsetting.php:41
+msgid "Highlight Text"
+msgstr "突出顯示文本"
+
+#: include/txtccsetting.php:41
+msgid "To use highlight text on your selected content"
+msgstr "在所選內容上使用突出顯示文本"
+
+#: include/txtccsetting.php:42
+msgid "Dummy Text"
+msgstr "虛擬文本"
+
+#: include/txtccsetting.php:42
+msgid "To Show Dummy text"
+msgstr "顯示虛擬文本"
+
+#: include/txtccsetting.php:43
+msgid "To Show Alternate case"
+msgstr "顯示替代案例"
+
+#: include/txtccsetting.php:44
+msgid "Download your text on your editor"
+msgstr "在編輯器上下載文本"
+
+#: include/txtccsetting.php:45
+msgid "To Show selected text in Short Quotation"
+msgstr "在短引號中顯示所選文本"
+
+#: include/txtccsetting.php:46
+msgid "To show Add break in content"
+msgstr "顯示在內容中添加中斷"
+
+#: include/txtccsetting.php:47
+msgid "To Use Underline in the selected word or line"
+msgstr "在選定的單詞或行中使用下劃線"
+
+#: include/txtccsetting.php:48
+msgid "To Use Tel tag in the selected word"
+msgstr "在所選單詞中使用 Tel 標籤"
+
+#: include/txtccsetting.php:49
+msgid "To Use Email tag in the selected word"
+msgstr "在選定的單詞中使用電子郵件標籤"
+
+#: include/txtccsetting.php:50
+msgid "Copy To Clipboard"
+msgstr "複製到剪貼板"
+
+#: include/txtccsetting.php:50
+msgid "To Copy the selected content on your editor"
+msgstr "在編輯器上複製所選內容"
+
+#: include/txtccsetting.php:51
+msgid "To show the selected text"
+msgstr "顯示選定的文本"
+
+#: include/txtccsetting.php:52
+msgid "Headings"
+msgstr "標題"
+
+#: include/txtccsetting.php:52
+msgid "To Use for headings"
+msgstr "用於標題"
+
+#: include/txtccsetting.php:53
+msgid "Confirmation Check"
+msgstr "確認檢查"
+
+#: include/txtccsetting.php:53
+msgid ""
+"Use this feature to add a confirmation popup while using Uppercase, "
+"LowerCase, AlternateCase etc."
+msgstr ""
+"使用此功能可在使用 Uppercase、LowerCase、AlternateCase 等時新增確認彈出視"
+"窗。"
+
+#: include/txtccsetting.php:79
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: include/txtccsetting.php:89
+msgid "How to use Text Case Converter?"
+msgstr "設置文本大小寫轉換器"
+
+#: include/txtccsetting.php:94
+msgid "Please Review"
+msgstr "請查閱"
+
+#: include/txtccsetting.php:95
+msgid "SUBSCRIBE"
+msgstr "訂閱"
+
+#: include/txtccsetting.php:102
+msgid "Explore Our Services"
+msgstr "探索我們的服務"
+
+#: include/txtccsetting.php:106
+msgid "For WordPress Design & Development | Custom Plugin Services"
+msgstr "對於 WordPress 設計與開發 |客製化外掛服務"
+
+#: include/txtccsetting.php:114
+msgid "Try Our Other WordPress Plugins"
+msgstr "試試我們的其他插件"
+
+#: include/txtccsetting.php:120
+msgid "Custom Add to Cart Button"
+msgstr "自定義添加到購物車按鈕"
+
+#: include/txtccsetting.php:122
+msgid "Get Pro"
+msgstr "取得專業版"
+
+#: include/txtccsetting.php:129
+msgid "Awesome Checkout Templates"
+msgstr "很棒的結帳模板"
+
+#: include/txtccsetting.php:136
+msgid "Passwords Manager"
+msgstr "密碼管理器"
+
+#: include/txtccsetting.php:142
+msgid "Country and State Selection Addon for Gravity Forms"
+msgstr "重力形式的國家和州選擇插件"
+
+#: include/txtccsetting.php:149
+msgid "Digital Warranty Card Generator"
+msgstr "數位保固卡產生器"
+
+#: include/txtccsetting.php:156
+msgid "Horizontal Slider with Scroll"
+msgstr "帶有滾動條的水平滑塊"
+
+#: include/txtccsetting.php:163
+msgid "Show State Field for WooCommerce"
+msgstr "顯示 WooCommerce 的狀態字段"
+
+#: include/txtccsetting.php:173
+msgid "Try World Class Hosting Services"
+msgstr "嘗試世界一流的託管服務"
+
+#~ msgid "Invalid type of customClass."
+#~ msgstr "customClass 的類型無效。"
+
+#~ msgid ""
+#~ "\"allowOutsideClick\" parameter requires `backdrop` parameter to be set "
+#~ "to `true`"
+#~ msgstr "“allowOutsideClick”參數需要將 `backdrop` 參數設置為 `true`"
+
+#~ msgid "The \"position\" parameter is not valid, defaulting to \"center\""
+#~ msgstr "“位置”參數無效，默認為“中心”"
+
+#~ msgid ""
+#~ "Unexpected type of inputValue! Expected \"string\", \"number\" or "
+#~ "\"Promise\", got \""
+#~ msgstr "意外的 inputValue 類型！應為“字符串”、“數字”或“承諾”，得到“"
+
+#~ msgid ""
+#~ "Invalid currentProgressStep parameter, it should be less than "
+#~ "progressSteps.length (currentProgressStep like JS arrays starts from 0)"
+#~ msgstr ""
+#~ "currentProgressStep 參數無效，應該小於progressSteps.length"
+#~ "（currentProgressStep就像JS數組從0開始）"
+
+#~ msgid "Unknown parameter \""
+#~ msgstr "未知參數“"
+
+#~ msgid "The parameter \""
+#~ msgstr "參數“"
+
+#~ msgid "Copy To clipboard"
+#~ msgstr "複製到剪貼板"
+
+#~ msgid "video"
+#~ msgstr "視頻"
+
+#~ msgid "underline"
+#~ msgstr "強調"
+
+#~ msgid "Watch Plugin Video"
+#~ msgstr "觀看插件視頻"
+
+#~ msgid "Contact Us for Better Google PageSpeed Optimization Results!"
+#~ msgstr "聯繫我們以獲得更好的 Google PageSpeed 優化結果！"

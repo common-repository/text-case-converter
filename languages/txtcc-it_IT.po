@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2023-11-07 11:14+0530\n"
+"PO-Revision-Date: 2023-11-07 11:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/functions.php:6
+msgid " Settings Text case converter"
+msgstr " Impostazioni Convertitore di maiuscole e minuscole"
+
+#: include/functions.php:6
+msgid "Text Case Converter"
+msgstr "Convertitore di maiuscole e minuscole"
+
+#: include/txtcc_inscript.php:44
+msgid "There are no exporting data in your selection fields"
+msgstr "Non ci sono dati da esportare nei campi di selezione"
+
+#: include/txtcc_inscript.php:47
+msgid "Uppercase"
+msgstr "Maiuscola"
+
+#: include/txtcc_inscript.php:48
+msgid "Lowercase"
+msgstr "minuscola"
+
+#: include/txtcc_inscript.php:49 include/txtccsetting.php:29
+msgid "Capitalize"
+msgstr "Capitalizzare"
+
+#: include/txtcc_inscript.php:50 include/txtccsetting.php:30
+msgid "Sentence"
+msgstr "Frase"
+
+#: include/txtcc_inscript.php:51
+msgid "Invert Case"
+msgstr "Inverti caso"
+
+#: include/txtcc_inscript.php:52 include/txtccsetting.php:43
+msgid "Alternate Case"
+msgstr "Caso alternativo"
+
+#: include/txtcc_inscript.php:53
+msgid "Insert dummy text"
+msgstr "Inserisci testo fittizio"
+
+#: include/txtcc_inscript.php:54 include/txtccsetting.php:32
+msgid "Subscript"
+msgstr "Pedice"
+
+#: include/txtcc_inscript.php:55 include/txtccsetting.php:39
+msgid "Superscript"
+msgstr "Apice"
+
+#: include/txtcc_inscript.php:56 include/txtccsetting.php:44
+msgid "Download Text"
+msgstr "Scarica testo"
+
+#: include/txtcc_inscript.php:57 include/txtccsetting.php:38
+msgid "Clean"
+msgstr "Pulita"
+
+#: include/txtcc_inscript.php:58
+msgid "Copy to Clipboard"
+msgstr "Copia negli appunti"
+
+#: include/txtcc_inscript.php:59 include/txtccsetting.php:46
+msgid "Add break in content"
+msgstr "Aggiungi un'interruzione nel contenuto"
+
+#: include/txtcc_inscript.php:60 include/txtccsetting.php:40
+msgid "Calculator"
+msgstr "Calcolatrice"
+
+#: include/txtcc_inscript.php:61 include/txtccsetting.php:31
+msgid "Address"
+msgstr "Indirizzo"
+
+#: include/txtcc_inscript.php:62 include/txtccsetting.php:45
+msgid "Short Quotation"
+msgstr "Citazione breve"
+
+#: include/txtcc_inscript.php:63 include/txtccsetting.php:33
+msgid "Abbreviation"
+msgstr "Abbreviazione"
+
+#: include/txtcc_inscript.php:64
+msgid "Highlight text"
+msgstr "Testo evidenziato"
+
+#: include/txtcc_inscript.php:65
+msgid "Enter the title attribute"
+msgstr "Inserisci l'attributo del titolo"
+
+#: include/txtcc_inscript.php:66
+msgid "Title"
+msgstr "Titolo"
+
+#: include/txtcc_inscript.php:67 include/txtccsetting.php:34
+msgid "Synonyms"
+msgstr "Sinonimi"
+
+#: include/txtcc_inscript.php:68
+msgid "Add synonyms"
+msgstr "Aggiungi sinonimi"
+
+#: include/txtcc_inscript.php:69 include/txtccsetting.php:35
+msgid "Audio"
+msgstr "Audio"
+
+#: include/txtcc_inscript.php:70
+msgid "Add audio"
+msgstr "Aggiungi audio"
+
+#: include/txtcc_inscript.php:71
+msgid "Audio src"
+msgstr "Audio src"
+
+#: include/txtcc_inscript.php:72
+msgid "Tool Tip"
+msgstr "Suggerimento strumento"
+
+#: include/txtcc_inscript.php:73
+msgid "Tool Tip Text"
+msgstr "Testo suggerimento strumento"
+
+#: include/txtcc_inscript.php:74 include/txtccsetting.php:36
+msgid "Video"
+msgstr "Video"
+
+#: include/txtcc_inscript.php:75
+msgid "Add video"
+msgstr "Aggiungi video"
+
+#: include/txtcc_inscript.php:76
+msgid "Video src"
+msgstr "video src"
+
+#: include/txtcc_inscript.php:77 include/txtccsetting.php:51
+msgid "Code"
+msgstr "Codice"
+
+#: include/txtcc_inscript.php:78 include/txtccsetting.php:24
+msgid "All"
+msgstr "Tutte"
+
+#: include/txtcc_inscript.php:79 include/txtccsetting.php:47
+msgid "Underline"
+msgstr "Sottolineare"
+
+#: include/txtcc_inscript.php:80 include/txtccsetting.php:48
+msgid "Telephone"
+msgstr "Telefono"
+
+#: include/txtcc_inscript.php:81 include/txtccsetting.php:49
+msgid "Email"
+msgstr "E-mail"
+
+#: include/txtcc_inscript.php:90
+msgid "Clear"
+msgstr "Chiara"
+
+#: include/txtcc_inscript.php:90
+msgid "Default"
+msgstr "Predefinita"
+
+#: include/txtcc_inscript.php:90
+msgid "Select Color"
+msgstr "Seleziona Colore"
+
+#: include/txtccsetting.php:14 txtcc.php:55
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: include/txtccsetting.php:24
+msgid "To show all tools"
+msgstr "Per mostrare tutti gli strumenti"
+
+#: include/txtccsetting.php:27
+msgid "Lower Case"
+msgstr "Minuscolo"
+
+#: include/txtccsetting.php:27
+msgid "To show Lower Case"
+msgstr "Per mostrare le minuscole"
+
+#: include/txtccsetting.php:28
+msgid "Upper Case"
+msgstr "Maiuscolo"
+
+#: include/txtccsetting.php:28
+msgid "To show Upper Case"
+msgstr "Per mostrare le maiuscole"
+
+#: include/txtccsetting.php:29
+msgid "To Show Capitalize"
+msgstr "Per mostrare in maiuscolo"
+
+#: include/txtccsetting.php:30
+msgid "To Show Sentence"
+msgstr "Per mostrare la frase"
+
+#: include/txtccsetting.php:31
+msgid "To Show Address"
+msgstr "Per mostrare l'indirizzo"
+
+#: include/txtccsetting.php:32
+msgid "To Show Selected text in Subscript"
+msgstr "Per mostrare il testo selezionato in pedice"
+
+#: include/txtccsetting.php:33
+msgid "To Show Selected text in Abbreviation"
+msgstr "Per mostrare il testo selezionato in abbreviazione"
+
+#: include/txtccsetting.php:34
+msgid "To Show Same meaning of the word"
+msgstr "Per mostrare lo stesso significato della parola"
+
+#: include/txtccsetting.php:35
+msgid "To Show Audio tag"
+msgstr "Per mostrare il tag audio"
+
+#: include/txtccsetting.php:36
+msgid "To Show Video tag"
+msgstr "Per mostrare tag video"
+
+#: include/txtccsetting.php:37
+msgid "Tooltip"
+msgstr "Descrizione comando"
+
+#: include/txtccsetting.php:37
+msgid "To make Tooltip in selected text"
+msgstr "Per creare un suggerimento nel testo selezionato"
+
+#: include/txtccsetting.php:38
+msgid "To Clean your editor"
+msgstr "Per pulire il tuo editor"
+
+#: include/txtccsetting.php:39
+msgid "To Show Selected text in Superscript"
+msgstr "Per mostrare il testo selezionato in apice"
+
+#: include/txtccsetting.php:40
+msgid "To count the char,word and line on your editor"
+msgstr "Per contare il carattere, la parola e la riga sul tuo editor"
+
+#: include/txtccsetting.php:41
+msgid "Highlight Text"
+msgstr "Testo evidenziato"
+
+#: include/txtccsetting.php:41
+msgid "To use highlight text on your selected content"
+msgstr "Per utilizzare il testo evidenziato sul contenuto selezionato"
+
+#: include/txtccsetting.php:42
+msgid "Dummy Text"
+msgstr "Testo fittizio"
+
+#: include/txtccsetting.php:42
+msgid "To Show Dummy text"
+msgstr "Per mostrare testo fittizio"
+
+#: include/txtccsetting.php:43
+msgid "To Show Alternate case"
+msgstr "Per mostrare il caso alternativo"
+
+#: include/txtccsetting.php:44
+msgid "Download your text on your editor"
+msgstr "Scarica il tuo testo sul tuo editor"
+
+#: include/txtccsetting.php:45
+msgid "To Show selected text in Short Quotation"
+msgstr "Per mostrare il testo selezionato in una citazione breve"
+
+#: include/txtccsetting.php:46
+msgid "To show Add break in content"
+msgstr "Per mostrare Aggiungi interruzione nel contenuto"
+
+#: include/txtccsetting.php:47
+msgid "To Use Underline in the selected word or line"
+msgstr "Per utilizzare la sottolineatura nella parola o riga selezionata"
+
+#: include/txtccsetting.php:48
+msgid "To Use Tel tag in the selected word"
+msgstr "Per utilizzare il tag Tel nella parola selezionata"
+
+#: include/txtccsetting.php:49
+msgid "To Use Email tag in the selected word"
+msgstr "Per utilizzare il tag e-mail nella parola selezionata"
+
+#: include/txtccsetting.php:50
+msgid "Copy To Clipboard"
+msgstr "Copia negli appunti"
+
+#: include/txtccsetting.php:50
+msgid "To Copy the selected content on your editor"
+msgstr "Per copiare il contenuto selezionato sul tuo editor"
+
+#: include/txtccsetting.php:51
+msgid "To show the selected text"
+msgstr "Per mostrare il testo selezionato"
+
+#: include/txtccsetting.php:52
+msgid "Headings"
+msgstr "Intestazioni"
+
+#: include/txtccsetting.php:52
+msgid "To Use for headings"
+msgstr "Da usare per le intestazioni"
+
+#: include/txtccsetting.php:53
+msgid "Confirmation Check"
+msgstr "Controllo di conferma"
+
+#: include/txtccsetting.php:53
+msgid ""
+"Use this feature to add a confirmation popup while using Uppercase, "
+"LowerCase, AlternateCase etc."
+msgstr ""
+"Utilizza questa funzione per aggiungere un popup di conferma mentre usi "
+"maiuscolo, minuscolo, alternativo ecc."
+
+#: include/txtccsetting.php:79
+msgid "Save Changes"
+msgstr "Salvare le modifiche"
+
+#: include/txtccsetting.php:89
+msgid "How to use Text Case Converter?"
+msgstr "Come utilizzare il convertitore di maiuscole e minuscole di testo?"
+
+#: include/txtccsetting.php:94
+msgid "Please Review"
+msgstr "Per favore rivedere"
+
+#: include/txtccsetting.php:95
+msgid "SUBSCRIBE"
+msgstr "SOTTOSCRIVI"
+
+#: include/txtccsetting.php:102
+msgid "Explore Our Services"
+msgstr "Esplora i nostri servizi"
+
+#: include/txtccsetting.php:106
+msgid "For WordPress Design & Development | Custom Plugin Services"
+msgstr ""
+"Per la progettazione e lo sviluppo di WordPress | Servizi di plug-in "
+"personalizzati"
+
+#: include/txtccsetting.php:114
+msgid "Try Our Other WordPress Plugins"
+msgstr "Prova i nostri altri plugin"
+
+#: include/txtccsetting.php:120
+msgid "Custom Add to Cart Button"
+msgstr "Pulsante personalizzato Aggiungi al carrello"
+
+#: include/txtccsetting.php:122
+msgid "Get Pro"
+msgstr "Get Pro"
+
+#: include/txtccsetting.php:129
+msgid "Awesome Checkout Templates"
+msgstr "Fantastici modelli di checkout"
+
+#: include/txtccsetting.php:136
+msgid "Passwords Manager"
+msgstr "Gestore delle password"
+
+#: include/txtccsetting.php:142
+msgid "Country and State Selection Addon for Gravity Forms"
+msgstr ""
+"Componente aggiuntivo per la selezione del Paese e dello Stato per i moduli "
+"Gravity"
+
+#: include/txtccsetting.php:149
+msgid "Digital Warranty Card Generator"
+msgstr "Generatore di carte di garanzia digitale"
+
+#: include/txtccsetting.php:156
+msgid "Horizontal Slider with Scroll"
+msgstr "Dispositivo di scorrimento orizzontale con scorrimento"
+
+#: include/txtccsetting.php:163
+msgid "Show State Field for WooCommerce"
+msgstr "Mostra campo stato per WooCommerce"
+
+#: include/txtccsetting.php:173
+msgid "Try World Class Hosting Services"
+msgstr "Prova i servizi di hosting di livello mondiale"
+
+#~ msgid "Invalid type of customClass."
+#~ msgstr "Tipo di customClass non valido."
+
+#~ msgid ""
+#~ "\"allowOutsideClick\" parameter requires `backdrop` parameter to be set "
+#~ "to `true`"
+#~ msgstr ""
+#~ "Il parametro \"allowOutsideClick\" richiede che il parametro `backdrop` "
+#~ "sia impostato su `true`"
+
+#~ msgid "The \"position\" parameter is not valid, defaulting to \"center\""
+#~ msgstr ""
+#~ "Il parametro \"posizione\" non è valido, per impostazione predefinita è "
+#~ "\"centro\""
+
+#~ msgid ""
+#~ "Unexpected type of inputValue! Expected \"string\", \"number\" or "
+#~ "\"Promise\", got \""
+#~ msgstr ""
+#~ "Tipo imprevisto di inputValue! Previsto \"stringa\", \"numero\" o "
+#~ "\"Promessa\", ottenuto \""
+
+#~ msgid ""
+#~ "Invalid currentProgressStep parameter, it should be less than "
+#~ "progressSteps.length (currentProgressStep like JS arrays starts from 0)"
+#~ msgstr ""
+#~ "Parametro currentProgressStep non valido, dovrebbe essere inferiore a "
+#~ "progressSteps.length (currentProgressStep come gli array JS inizia da 0)"
+
+#~ msgid "Unknown parameter \""
+#~ msgstr "Parametro sconosciuto \""
+
+#~ msgid "The parameter \""
+#~ msgstr "Il parametro\""
+
+#~ msgid "Copy To clipboard"
+#~ msgstr "Copia negli appunti"
+
+#~ msgid "video"
+#~ msgstr "video"
+
+#~ msgid "underline"
+#~ msgstr "sottolineare"
+
+#~ msgid "Watch Plugin Video"
+#~ msgstr "Guarda il video del plugin"
+
+#~ msgid "Contact Us for Better Google PageSpeed Optimization Results!"
+#~ msgstr ""
+#~ "Contattaci per migliori risultati di ottimizzazione di Google PageSpeed!"

@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2023-11-07 11:12+0530\n"
+"PO-Revision-Date: 2023-11-07 11:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/functions.php:6
+msgid " Settings Text case converter"
+msgstr "設定テキストケースコンバータ"
+
+#: include/functions.php:6
+msgid "Text Case Converter"
+msgstr "テキストケースコンバーター"
+
+#: include/txtcc_inscript.php:44
+msgid "There are no exporting data in your selection fields"
+msgstr "選択フィールドにエクスポートデータはありません"
+
+#: include/txtcc_inscript.php:47
+msgid "Uppercase"
+msgstr "大文字"
+
+#: include/txtcc_inscript.php:48
+msgid "Lowercase"
+msgstr "小文字"
+
+#: include/txtcc_inscript.php:49 include/txtccsetting.php:29
+msgid "Capitalize"
+msgstr "キャピタライズ"
+
+#: include/txtcc_inscript.php:50 include/txtccsetting.php:30
+msgid "Sentence"
+msgstr "文"
+
+#: include/txtcc_inscript.php:51
+msgid "Invert Case"
+msgstr "ケースを反転"
+
+#: include/txtcc_inscript.php:52 include/txtccsetting.php:43
+msgid "Alternate Case"
+msgstr "代替ケース"
+
+#: include/txtcc_inscript.php:53
+msgid "Insert dummy text"
+msgstr "ダミーテキストを挿入"
+
+#: include/txtcc_inscript.php:54 include/txtccsetting.php:32
+msgid "Subscript"
+msgstr "添字"
+
+#: include/txtcc_inscript.php:55 include/txtccsetting.php:39
+msgid "Superscript"
+msgstr "上付き文字"
+
+#: include/txtcc_inscript.php:56 include/txtccsetting.php:44
+msgid "Download Text"
+msgstr "テキストをダウンロード"
+
+#: include/txtcc_inscript.php:57 include/txtccsetting.php:38
+msgid "Clean"
+msgstr "掃除"
+
+#: include/txtcc_inscript.php:58
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+#: include/txtcc_inscript.php:59 include/txtccsetting.php:46
+msgid "Add break in content"
+msgstr "コンテンツに休憩を追加する"
+
+#: include/txtcc_inscript.php:60 include/txtccsetting.php:40
+msgid "Calculator"
+msgstr "電卓"
+
+#: include/txtcc_inscript.php:61 include/txtccsetting.php:31
+msgid "Address"
+msgstr "住所"
+
+#: include/txtcc_inscript.php:62 include/txtccsetting.php:45
+msgid "Short Quotation"
+msgstr "短い引用"
+
+#: include/txtcc_inscript.php:63 include/txtccsetting.php:33
+msgid "Abbreviation"
+msgstr "略語"
+
+#: include/txtcc_inscript.php:64
+msgid "Highlight text"
+msgstr "テキストを強調表示"
+
+#: include/txtcc_inscript.php:65
+msgid "Enter the title attribute"
+msgstr "タイトル属性を入力してください"
+
+#: include/txtcc_inscript.php:66
+msgid "Title"
+msgstr "題名"
+
+#: include/txtcc_inscript.php:67 include/txtccsetting.php:34
+msgid "Synonyms"
+msgstr "同義語"
+
+#: include/txtcc_inscript.php:68
+msgid "Add synonyms"
+msgstr "同義語を追加する"
+
+#: include/txtcc_inscript.php:69 include/txtccsetting.php:35
+msgid "Audio"
+msgstr "オーディオ"
+
+#: include/txtcc_inscript.php:70
+msgid "Add audio"
+msgstr "音声を追加"
+
+#: include/txtcc_inscript.php:71
+msgid "Audio src"
+msgstr "オーディオソース"
+
+#: include/txtcc_inscript.php:72
+msgid "Tool Tip"
+msgstr "ツールチップ"
+
+#: include/txtcc_inscript.php:73
+msgid "Tool Tip Text"
+msgstr "ツールチップテキスト"
+
+#: include/txtcc_inscript.php:74 include/txtccsetting.php:36
+msgid "Video"
+msgstr "ビデオ"
+
+#: include/txtcc_inscript.php:75
+msgid "Add video"
+msgstr "ビデオを追加"
+
+#: include/txtcc_inscript.php:76
+msgid "Video src"
+msgstr "ビデオsrc"
+
+#: include/txtcc_inscript.php:77 include/txtccsetting.php:51
+msgid "Code"
+msgstr "コード"
+
+#: include/txtcc_inscript.php:78 include/txtccsetting.php:24
+msgid "All"
+msgstr "すべて"
+
+#: include/txtcc_inscript.php:79 include/txtccsetting.php:47
+msgid "Underline"
+msgstr "下線を引く"
+
+#: include/txtcc_inscript.php:80 include/txtccsetting.php:48
+msgid "Telephone"
+msgstr "電話"
+
+#: include/txtcc_inscript.php:81 include/txtccsetting.php:49
+msgid "Email"
+msgstr "Eメール"
+
+#: include/txtcc_inscript.php:90
+msgid "Clear"
+msgstr "晴れ"
+
+#: include/txtcc_inscript.php:90
+msgid "Default"
+msgstr "デフォルト"
+
+#: include/txtcc_inscript.php:90
+msgid "Select Color"
+msgstr "色を選択"
+
+#: include/txtccsetting.php:14 txtcc.php:55
+msgid "Settings"
+msgstr "設定"
+
+#: include/txtccsetting.php:24
+msgid "To show all tools"
+msgstr "すべてのツールを表示するには"
+
+#: include/txtccsetting.php:27
+msgid "Lower Case"
+msgstr "小文字"
+
+#: include/txtccsetting.php:27
+msgid "To show Lower Case"
+msgstr "小文字を表示するには"
+
+#: include/txtccsetting.php:28
+msgid "Upper Case"
+msgstr "大文字"
+
+#: include/txtccsetting.php:28
+msgid "To show Upper Case"
+msgstr "大文字を表示するには"
+
+#: include/txtccsetting.php:29
+msgid "To Show Capitalize"
+msgstr "キャピタライズを表示するには"
+
+#: include/txtccsetting.php:30
+msgid "To Show Sentence"
+msgstr "文を表示するには"
+
+#: include/txtccsetting.php:31
+msgid "To Show Address"
+msgstr "住所を表示するには"
+
+#: include/txtccsetting.php:32
+msgid "To Show Selected text in Subscript"
+msgstr "選択したテキストを下付き文字で表示するには"
+
+#: include/txtccsetting.php:33
+msgid "To Show Selected text in Abbreviation"
+msgstr "選択したテキストを略語で表示するには"
+
+#: include/txtccsetting.php:34
+msgid "To Show Same meaning of the word"
+msgstr "単語の同じ意味を表示するには"
+
+#: include/txtccsetting.php:35
+msgid "To Show Audio tag"
+msgstr "オーディオタグを表示するには"
+
+#: include/txtccsetting.php:36
+msgid "To Show Video tag"
+msgstr "ビデオタグを表示するには"
+
+#: include/txtccsetting.php:37
+msgid "Tooltip"
+msgstr "ツールチップ"
+
+#: include/txtccsetting.php:37
+msgid "To make Tooltip in selected text"
+msgstr "選択したテキストでツールチップを作成するには"
+
+#: include/txtccsetting.php:38
+msgid "To Clean your editor"
+msgstr "エディターをクリーンアップするには"
+
+#: include/txtccsetting.php:39
+msgid "To Show Selected text in Superscript"
+msgstr "選択したテキストを上付き文字で表示するには"
+
+#: include/txtccsetting.php:40
+msgid "To count the char,word and line on your editor"
+msgstr "エディタで文字、単語、行を数えるには"
+
+#: include/txtccsetting.php:41
+msgid "Highlight Text"
+msgstr "テキストを強調表示"
+
+#: include/txtccsetting.php:41
+msgid "To use highlight text on your selected content"
+msgstr "選択したコンテンツでハイライトテキストを使用するには"
+
+#: include/txtccsetting.php:42
+msgid "Dummy Text"
+msgstr "ダミーテキスト"
+
+#: include/txtccsetting.php:42
+msgid "To Show Dummy text"
+msgstr "ダミーテキストを表示するには"
+
+#: include/txtccsetting.php:43
+msgid "To Show Alternate case"
+msgstr "別のケースを表示するには"
+
+#: include/txtccsetting.php:44
+msgid "Download your text on your editor"
+msgstr "エディターにテキストをダウンロードします"
+
+#: include/txtccsetting.php:45
+msgid "To Show selected text in Short Quotation"
+msgstr "選択したテキストを短い引用で表示するには"
+
+#: include/txtccsetting.php:46
+msgid "To show Add break in content"
+msgstr "コンテンツのブレークを追加を表示するには"
+
+#: include/txtccsetting.php:47
+msgid "To Use Underline in the selected word or line"
+msgstr "選択した単語または行でアンダースコアを使用するには"
+
+#: include/txtccsetting.php:48
+msgid "To Use Tel tag in the selected word"
+msgstr "選択した単語でTelタグを使用するには"
+
+#: include/txtccsetting.php:49
+msgid "To Use Email tag in the selected word"
+msgstr "選択した単語でEメールタグを使用するには"
+
+#: include/txtccsetting.php:50
+msgid "Copy To Clipboard"
+msgstr "クリップボードにコピー"
+
+#: include/txtccsetting.php:50
+msgid "To Copy the selected content on your editor"
+msgstr "選択したコンテンツをエディターにコピーするには"
+
+#: include/txtccsetting.php:51
+msgid "To show the selected text"
+msgstr "選択したテキストを表示するには"
+
+#: include/txtccsetting.php:52
+msgid "Headings"
+msgstr "見出し"
+
+#: include/txtccsetting.php:52
+msgid "To Use for headings"
+msgstr "見出しに使用するには"
+
+#: include/txtccsetting.php:53
+msgid "Confirmation Check"
+msgstr "確認チェック"
+
+#: include/txtccsetting.php:53
+msgid ""
+"Use this feature to add a confirmation popup while using Uppercase, "
+"LowerCase, AlternateCase etc."
+msgstr ""
+"この機能を使用して、Uppercase、LowerCase、AlternateCase などを使用している"
+"ときに確認ポップアップを追加します。"
+
+#: include/txtccsetting.php:79
+msgid "Save Changes"
+msgstr "変更内容を保存"
+
+#: include/txtccsetting.php:89
+msgid "How to use Text Case Converter?"
+msgstr "設定テキストケースコンバータ"
+
+#: include/txtccsetting.php:94
+msgid "Please Review"
+msgstr "確認してください"
+
+#: include/txtccsetting.php:95
+msgid "SUBSCRIBE"
+msgstr "申し込む"
+
+#: include/txtccsetting.php:102
+msgid "Explore Our Services"
+msgstr "当社のサービスを詳しく見る"
+
+#: include/txtccsetting.php:106
+msgid "For WordPress Design & Development | Custom Plugin Services"
+msgstr "WordPress のデザインと開発について |カスタムプラグインサービス"
+
+#: include/txtccsetting.php:114
+msgid "Try Our Other WordPress Plugins"
+msgstr "他のプラグインをお試しください"
+
+#: include/txtccsetting.php:120
+msgid "Custom Add to Cart Button"
+msgstr "カスタムカートに追加ボタン"
+
+#: include/txtccsetting.php:122
+msgid "Get Pro"
+msgstr "プロになる"
+
+#: include/txtccsetting.php:129
+msgid "Awesome Checkout Templates"
+msgstr "素晴らしいチェックアウトテンプレート"
+
+#: include/txtccsetting.php:136
+msgid "Passwords Manager"
+msgstr "パスワードマネージャー"
+
+#: include/txtccsetting.php:142
+msgid "Country and State Selection Addon for Gravity Forms"
+msgstr "Gravity Forms の国と州の選択アドオン"
+
+#: include/txtccsetting.php:149
+msgid "Digital Warranty Card Generator"
+msgstr "デジタル保証書ジェネレーター"
+
+#: include/txtccsetting.php:156
+msgid "Horizontal Slider with Scroll"
+msgstr "スクロール付き水平スライダー"
+
+#: include/txtccsetting.php:163
+msgid "Show State Field for WooCommerce"
+msgstr "WooCommerce の状態フィールドを表示"
+
+#: include/txtccsetting.php:173
+msgid "Try World Class Hosting Services"
+msgstr "ワールドクラスのホスティングサービスをお試しください"
+
+#~ msgid "Invalid type of customClass."
+#~ msgstr "customClassのタイプが無効です。"
+
+#~ msgid ""
+#~ "\"allowOutsideClick\" parameter requires `backdrop` parameter to be set "
+#~ "to `true`"
+#~ msgstr ""
+#~ "「allowOutsideClick」パラメータでは、「backdrop」パラメータを「true」に"
+#~ "設定する必要があります"
+
+#~ msgid "The \"position\" parameter is not valid, defaulting to \"center\""
+#~ msgstr "「position」パラメータは無効で、デフォルトは「center」です。"
+
+#~ msgid ""
+#~ "Unexpected type of inputValue! Expected \"string\", \"number\" or "
+#~ "\"Promise\", got \""
+#~ msgstr ""
+#~ "予期しないタイプのinputValue！期待される「文字列」、「数値」、または「約"
+#~ "束」は、「"
+
+#~ msgid ""
+#~ "Invalid currentProgressStep parameter, it should be less than "
+#~ "progressSteps.length (currentProgressStep like JS arrays starts from 0)"
+#~ msgstr ""
+#~ "currentProgressStepパラメーターが無効です。progressSteps.length未満であ"
+#~ "る必要があります（JS配列のようなcurrentProgressStepは0から始まります）"
+
+#~ msgid "Unknown parameter \""
+#~ msgstr "不明なパラメータ \""
+
+#~ msgid "The parameter \""
+#~ msgstr "パラメータ \""
+
+#~ msgid "Copy To clipboard"
+#~ msgstr "クリップボードにコピー"
+
+#~ msgid "video"
+#~ msgstr "ビデオ"
+
+#~ msgid "underline"
+#~ msgstr "下線を引く"
+
+#~ msgid "Watch Plugin Video"
+#~ msgstr "プラグインビデオを見る"
+
+#~ msgid "Contact Us for Better Google PageSpeed Optimization Results!"
+#~ msgstr "より良いGooglePageSpeed最適化結果についてはお問い合わせください！"

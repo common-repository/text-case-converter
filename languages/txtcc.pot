@@ -1,0 +1,389 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Case Converter 1.0\n"
+"POT-Creation-Date: 2023-10-30 17:30+0530\n"
+"PO-Revision-Date: 2020-06-25 15:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/functions.php:6
+msgid " Settings Text case converter"
+msgstr ""
+
+#: include/functions.php:6
+msgid "Text Case Converter"
+msgstr ""
+
+#: include/txtcc_inscript.php:44
+msgid "There are no exporting data in your selection fields"
+msgstr ""
+
+#: include/txtcc_inscript.php:47
+msgid "Uppercase"
+msgstr ""
+
+#: include/txtcc_inscript.php:48
+msgid "Lowercase"
+msgstr ""
+
+#: include/txtcc_inscript.php:49 include/txtccsetting.php:29
+msgid "Capitalize"
+msgstr ""
+
+#: include/txtcc_inscript.php:50 include/txtccsetting.php:30
+msgid "Sentence"
+msgstr ""
+
+#: include/txtcc_inscript.php:51
+msgid "Invert Case"
+msgstr ""
+
+#: include/txtcc_inscript.php:52 include/txtccsetting.php:43
+msgid "Alternate Case"
+msgstr ""
+
+#: include/txtcc_inscript.php:53
+msgid "Insert dummy text"
+msgstr ""
+
+#: include/txtcc_inscript.php:54 include/txtccsetting.php:32
+msgid "Subscript"
+msgstr ""
+
+#: include/txtcc_inscript.php:55 include/txtccsetting.php:39
+msgid "Superscript"
+msgstr ""
+
+#: include/txtcc_inscript.php:56 include/txtccsetting.php:44
+msgid "Download Text"
+msgstr ""
+
+#: include/txtcc_inscript.php:57 include/txtccsetting.php:38
+msgid "Clean"
+msgstr ""
+
+#: include/txtcc_inscript.php:58
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: include/txtcc_inscript.php:59 include/txtccsetting.php:46
+msgid "Add break in content"
+msgstr ""
+
+#: include/txtcc_inscript.php:60 include/txtccsetting.php:40
+msgid "Calculator"
+msgstr ""
+
+#: include/txtcc_inscript.php:61 include/txtccsetting.php:31
+msgid "Address"
+msgstr ""
+
+#: include/txtcc_inscript.php:62 include/txtccsetting.php:45
+msgid "Short Quotation"
+msgstr ""
+
+#: include/txtcc_inscript.php:63 include/txtccsetting.php:33
+msgid "Abbreviation"
+msgstr ""
+
+#: include/txtcc_inscript.php:64
+msgid "Highlight text"
+msgstr ""
+
+#: include/txtcc_inscript.php:65
+msgid "Enter the title attribute"
+msgstr ""
+
+#: include/txtcc_inscript.php:66
+msgid "Title"
+msgstr ""
+
+#: include/txtcc_inscript.php:67 include/txtccsetting.php:34
+msgid "Synonyms"
+msgstr ""
+
+#: include/txtcc_inscript.php:68
+msgid "Add synonyms"
+msgstr ""
+
+#: include/txtcc_inscript.php:69 include/txtccsetting.php:35
+msgid "Audio"
+msgstr ""
+
+#: include/txtcc_inscript.php:70
+msgid "Add audio"
+msgstr ""
+
+#: include/txtcc_inscript.php:71
+msgid "Audio src"
+msgstr ""
+
+#: include/txtcc_inscript.php:72
+msgid "Tool Tip"
+msgstr ""
+
+#: include/txtcc_inscript.php:73
+msgid "Tool Tip Text"
+msgstr ""
+
+#: include/txtcc_inscript.php:74 include/txtccsetting.php:36
+msgid "Video"
+msgstr ""
+
+#: include/txtcc_inscript.php:75
+msgid "Add video"
+msgstr ""
+
+#: include/txtcc_inscript.php:76
+msgid "Video src"
+msgstr ""
+
+#: include/txtcc_inscript.php:77 include/txtccsetting.php:51
+msgid "Code"
+msgstr ""
+
+#: include/txtcc_inscript.php:78 include/txtccsetting.php:24
+msgid "All"
+msgstr ""
+
+#: include/txtcc_inscript.php:79 include/txtccsetting.php:47
+msgid "Underline"
+msgstr ""
+
+#: include/txtcc_inscript.php:80 include/txtccsetting.php:48
+msgid "Telephone"
+msgstr ""
+
+#: include/txtcc_inscript.php:81 include/txtccsetting.php:49
+msgid "Email"
+msgstr ""
+
+#: include/txtcc_inscript.php:90
+msgid "Clear"
+msgstr ""
+
+#: include/txtcc_inscript.php:90
+msgid "Default"
+msgstr ""
+
+#: include/txtcc_inscript.php:90
+msgid "Select Color"
+msgstr ""
+
+#: include/txtccsetting.php:14 txtcc.php:55
+msgid "Settings"
+msgstr ""
+
+#: include/txtccsetting.php:24
+msgid "To show all tools"
+msgstr ""
+
+#: include/txtccsetting.php:27
+msgid "Lower Case"
+msgstr ""
+
+#: include/txtccsetting.php:27
+msgid "To show Lower Case"
+msgstr ""
+
+#: include/txtccsetting.php:28
+msgid "Upper Case"
+msgstr ""
+
+#: include/txtccsetting.php:28
+msgid "To show Upper Case"
+msgstr ""
+
+#: include/txtccsetting.php:29
+msgid "To Show Capitalize"
+msgstr ""
+
+#: include/txtccsetting.php:30
+msgid "To Show Sentence"
+msgstr ""
+
+#: include/txtccsetting.php:31
+msgid "To Show Address"
+msgstr ""
+
+#: include/txtccsetting.php:32
+msgid "To Show Selected text in Subscript"
+msgstr ""
+
+#: include/txtccsetting.php:33
+msgid "To Show Selected text in Abbreviation"
+msgstr ""
+
+#: include/txtccsetting.php:34
+msgid "To Show Same meaning of the word"
+msgstr ""
+
+#: include/txtccsetting.php:35
+msgid "To Show Audio tag"
+msgstr ""
+
+#: include/txtccsetting.php:36
+msgid "To Show Video tag"
+msgstr ""
+
+#: include/txtccsetting.php:37
+msgid "Tooltip"
+msgstr ""
+
+#: include/txtccsetting.php:37
+msgid "To make Tooltip in selected text"
+msgstr ""
+
+#: include/txtccsetting.php:38
+msgid "To Clean your editor"
+msgstr ""
+
+#: include/txtccsetting.php:39
+msgid "To Show Selected text in Superscript"
+msgstr ""
+
+#: include/txtccsetting.php:40
+msgid "To count the char,word and line on your editor"
+msgstr ""
+
+#: include/txtccsetting.php:41
+msgid "Highlight Text"
+msgstr ""
+
+#: include/txtccsetting.php:41
+msgid "To use highlight text on your selected content"
+msgstr ""
+
+#: include/txtccsetting.php:42
+msgid "Dummy Text"
+msgstr ""
+
+#: include/txtccsetting.php:42
+msgid "To Show Dummy text"
+msgstr ""
+
+#: include/txtccsetting.php:43
+msgid "To Show Alternate case"
+msgstr ""
+
+#: include/txtccsetting.php:44
+msgid "Download your text on your editor"
+msgstr ""
+
+#: include/txtccsetting.php:45
+msgid "To Show selected text in Short Quotation"
+msgstr ""
+
+#: include/txtccsetting.php:46
+msgid "To show Add break in content"
+msgstr ""
+
+#: include/txtccsetting.php:47
+msgid "To Use Underline in the selected word or line"
+msgstr ""
+
+#: include/txtccsetting.php:48
+msgid "To Use Tel tag in the selected word"
+msgstr ""
+
+#: include/txtccsetting.php:49
+msgid "To Use Email tag in the selected word"
+msgstr ""
+
+#: include/txtccsetting.php:50
+msgid "Copy To Clipboard"
+msgstr ""
+
+#: include/txtccsetting.php:50
+msgid "To Copy the selected content on your editor"
+msgstr ""
+
+#: include/txtccsetting.php:51
+msgid "To show the selected text"
+msgstr ""
+
+#: include/txtccsetting.php:52
+msgid "Headings"
+msgstr ""
+
+#: include/txtccsetting.php:52
+msgid "To Use for headings"
+msgstr ""
+
+#: include/txtccsetting.php:53
+msgid "Confirmation Check"
+msgstr ""
+
+#: include/txtccsetting.php:53
+msgid "Use this feature to add a confirmation popup while using Uppercase, LowerCase, AlternateCase etc."
+msgstr ""
+
+#: include/txtccsetting.php:82
+msgid "Save Changes"
+msgstr ""
+
+#: include/txtccsetting.php:92
+msgid "How to use Text Case Converter?"
+msgstr ""
+
+#: include/txtccsetting.php:102
+msgid "Please Review"
+msgstr ""
+
+#: include/txtccsetting.php:107
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: include/txtccsetting.php:114
+msgid "Explore Our Services"
+msgstr ""
+
+#: include/txtccsetting.php:121
+msgid "For WordPress Design & Development | Custom Plugin Services"
+msgstr ""
+
+#: include/txtccsetting.php:128
+msgid "Try Our Other WordPress Plugins"
+msgstr ""
+
+#: include/txtccsetting.php:137
+msgid "Custom Add to Cart Button"
+msgstr ""
+
+#: include/txtccsetting.php:141
+msgid "Get Pro"
+msgstr ""
+
+#: include/txtccsetting.php:152
+msgid "Awesome Checkout Templates"
+msgstr ""
+
+#: include/txtccsetting.php:161
+msgid "Passwords Manager"
+msgstr ""
+
+#: include/txtccsetting.php:171
+msgid "Country and State Selection Addon for Gravity Forms"
+msgstr ""
+
+#: include/txtccsetting.php:182
+msgid "Digital Warranty Card Generator"
+msgstr ""
+
+#: include/txtccsetting.php:193
+msgid "Horizontal Slider with Scroll"
+msgstr ""
+
+#: include/txtccsetting.php:201
+msgid "Try World Class Hosting Services"
+msgstr ""
